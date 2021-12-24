@@ -1,4 +1,5 @@
-#[가운데글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/67256)
+#[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)    
+
 ---
 # 문제 설명
 * 스마트폰 전화 키패드의 각 칸에 다음과 같이 숫자들이 적혀 있습니다.    
