@@ -1,4 +1,4 @@
-#[가운데글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903?language=python3)
+# [가운데글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903?language=python3)
 
 ---
 # 문제 설명
