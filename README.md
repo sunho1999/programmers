@@ -12,6 +12,6 @@
     * [카카오인턴] 크레인 인형뽑기
         * [link](https://github.com/sunho1999/programmers/tree/main/level1/%5B카카오%20인턴%5D크레인%20인형뽑기)
     * 모의고사
-        * [link]https://github.com/sunho1999/programmers/tree/main/level1/모의고사)
+        * [link](https://github.com/sunho1999/programmers/tree/main/level1/모의고사)
   </div>
   </details>
