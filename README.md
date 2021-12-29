@@ -15,5 +15,8 @@
         * [link](https://github.com/sunho1999/programmers/tree/main/level1/모의고사)
     * 서울에서 김서방찾기
         * [link](https://github.com/sunho1999/programmers/tree/main/level1/서울에서%20김서방찾기)
+    * 소수 만들기
+        * [link](https://github.com/sunho1999/programmers/tree/main/level1/소수만들기)
+    
   </div>
   </details>
