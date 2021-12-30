@@ -17,6 +17,7 @@
         * [link](https://github.com/sunho1999/programmers/tree/main/level1/서울에서%20김서방찾기)
     * 소수 만들기
         * [link](https://github.com/sunho1999/programmers/tree/main/level1/소수만들기)
-    
+    * 숫자 문자열과 영단어
+        * [link](https://github.com/sunho1999/programmers/tree/main/level1/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4)
   </div>
   </details>
