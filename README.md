@@ -21,5 +21,7 @@
         * [link](https://github.com/sunho1999/programmers/tree/main/level1/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4)
     * 체육복 
         * [link](https://github.com/sunho1999/programmers/tree/main/level1/%EC%B2%B4%EC%9C%A1%EB%B3%B5)
+    * [1차]비밀지도
+        * [link](https://github.com/sunho1999/programmers/tree/main/level1/%5B1%EC%B0%A8%5D%20%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84)
   </div>
   </details>
