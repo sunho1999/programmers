@@ -25,5 +25,7 @@
         * [link](https://github.com/sunho1999/programmers/tree/main/level1/%5B1%EC%B0%A8%5D%20%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84)
     * 에산
         * [link](https://github.com/sunho1999/programmers/tree/main/level1/%EC%98%88%EC%82%B0)
+    * 두 정수 사이의 합
+        * [link](https://github.com/sunho1999/programmers/tree/main/level1/두%20정수%20사이의%20합)
   </div>
   </details>
