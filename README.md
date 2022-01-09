@@ -31,3 +31,15 @@
         * [link](https://github.com/sunho1999/programmers/tree/main/level1/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0)
   </div>
   </details>
+
+
+<details>
+  <summary> level 2문제 보기</summary>
+  <div markdown="1">
+
+* level2
+    * 타겟넘버
+        * [link](https://github.com/sunho1999/programmers/tree/main/level2/%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84)
+    
+  </div>
+  </details>
