@@ -40,6 +40,7 @@
 * level2
     * 타겟넘버
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84)
-    
+    * 프린터  
+        * [link](https://github.com/sunho1999/programmers/tree/main/level2/%ED%94%84%EB%A6%B0%ED%84%B0) 
   </div>
   </details>
