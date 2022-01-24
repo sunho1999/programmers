@@ -29,6 +29,8 @@
         * [link](https://github.com/sunho1999/programmers/tree/main/level1/두%20정수%20사이의%20합)
     * 음양 더하기
         * [link](https://github.com/sunho1999/programmers/tree/main/level1/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0)
+    * K번째수
+        * [link](https://github.com/sunho1999/programmers/tree/main/level1/K%EB%B2%88%EC%A7%B8%EC%88%98)
   </div>
   </details>
 
