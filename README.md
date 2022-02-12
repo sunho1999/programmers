@@ -50,7 +50,10 @@
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD)
     * 가장 큰 수 
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98)  
-  /div>
+    * 최솟값 만들기
+        * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0)  
+      
+  </div>
   </details>
 
 
