@@ -62,6 +62,8 @@
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%5B%EC%B9%B4%EC%B9%B4%EC%98%A41%EC%B0%A8%5D%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D) 
     * 배달
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EB%B0%B0%EB%8B%AC) 
+    * 점프와 순간 이동
+        * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EC%A0%90%ED%94%84%EC%99%80%20%EC%88%9C%EA%B0%84%20%EC%9D%B4%EB%8F%99) 
   </div>
   </details>
 
