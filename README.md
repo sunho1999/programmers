@@ -31,6 +31,8 @@
         * [link](https://github.com/sunho1999/programmers/tree/main/level1/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0)
     * K번째수
         * [link](https://github.com/sunho1999/programmers/tree/main/level1/K%EB%B2%88%EC%A7%B8%EC%88%98)
+    * 신규 아이디 추천
+        * [link](https://github.com/sunho1999/programmers/tree/main/level1/%20%5B%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C%20%EC%B1%84%EC%9A%A9%5D%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C)
   </div>
   </details>
 
