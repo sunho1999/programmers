@@ -68,6 +68,8 @@
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EC%A0%90%ED%94%84%EC%99%80%20%EC%88%9C%EA%B0%84%20%EC%9D%B4%EB%8F%99) 
     * 더 맵게
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EB%8D%94%20%EB%A7%B5%EA%B2%8C) 
+    * 게임 맵 최단거리
+        * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC) 
   </div>
   </details>
 
