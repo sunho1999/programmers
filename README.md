@@ -70,6 +70,8 @@
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EB%8D%94%20%EB%A7%B5%EA%B2%8C) 
     * 게임 맵 최단거리
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC) 
+    * 섬머/윈터코딩문제  방문길이
+        * [link](https://github.com/sunho1999/programmers/tree/main/level2/%5B%EC%84%AC%EB%A8%B8%2C%EC%9C%88%ED%84%B0%20%EC%BD%94%EB%94%A9%5D%EB%B0%A9%EB%AC%B8%20%EA%B8%B8%EC%9D%B4) 
   </div>
   </details>
 
