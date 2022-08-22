@@ -74,6 +74,8 @@
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%5B%EC%84%AC%EB%A8%B8%2C%EC%9C%88%ED%84%B0%20%EC%BD%94%EB%94%A9%5D%EB%B0%A9%EB%AC%B8%20%EA%B8%B8%EC%9D%B4) 
     * 피로도
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%ED%94%BC%EB%A1%9C%EB%8F%84) 
+    * 소수 찾기
+        * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0)
   </div>
   </details>
 
