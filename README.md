@@ -80,6 +80,8 @@
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8) 
     * 124 나라의 숫자
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90) 
+    * 땅따먹기
+        * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0) 
   </div>
   </details>
 
