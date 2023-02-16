@@ -82,6 +82,8 @@
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90) 
     * 땅따먹기
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0) 
+    * 무인도 여행
+        * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EB%AC%B4%EC%9D%B8%EB%8F%84%20%EC%97%AC%ED%96%89)
   </div>
   </details>
 
