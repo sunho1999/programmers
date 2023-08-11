@@ -113,4 +113,25 @@
         * [link](https://github.com/sunho1999/programmers/tree/main/level3/%EB%8B%A8%EC%96%B4%20%EB%B3%80%ED%99%98) 
   </div>
   </details>
-    
+
+<details>
+  <summary> SQL 문제보기</summary>
+  <div markdown="1">
+
+* MySQL
+  * 가격이 제일 비싼 식품의 정보 출력하기
+    * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%EA%B0%80%EA%B2%A9%EC%9D%B4%20%EC%A0%9C%EC%9D%BC%20%EB%B9%84%EC%8B%BC%20%EC%8B%9D%ED%92%88%EC%9D%98%20%EC%A0%95%EB%B3%B4%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
+  * 대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기
+    * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%EB%8C%80%EC%97%AC%20%ED%9A%9F%EC%88%98%EA%B0%80%20%EB%A7%8E%EC%9D%80%20%EC%9E%90%EB%8F%99%EC%B0%A8%EB%93%A4%EC%9D%98%20%EC%9B%94%EB%B3%84%20%EB%8C%80%EC%97%AC%20%ED%9A%9F%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0)
+  * 모든 레코드 조회하기
+    * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%EB%AA%A8%EB%93%A0%20%EB%A0%88%EC%BD%94%EB%93%9C%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0) 
+  * 역순 정렬하기
+    * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%EC%97%AD%EC%88%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)
+  * 자동차 평균 대여 기간 구하기
+    * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%EC%9E%90%EB%8F%99%EC%B0%A8%20%ED%8F%89%EA%B7%A0%20%EB%8C%80%EC%97%AC%20%EA%B8%B0%EA%B0%84%20%EA%B5%AC%ED%95%98%EA%B8%B0)
+  * 조건별로 분류하여 주문상태 출력하기
+    * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%EC%A1%B0%EA%B1%B4%EB%B3%84%EB%A1%9C%20%EB%B6%84%EB%A5%98%ED%95%98%EC%97%AC%20%EC%A3%BC%EB%AC%B8%EC%83%81%ED%83%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
+  * 카테고리 별 도서 판매량 집계하기 
+    * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%20%EB%B3%84%20%EB%8F%84%EC%84%9C%20%ED%8C%90%EB%A7%A4%EB%9F%89%20%EC%A7%91%EA%B3%84%ED%95%98%EA%B8%B0%20)
+  </div>
+  </details>
