@@ -133,5 +133,7 @@
     * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%EC%A1%B0%EA%B1%B4%EB%B3%84%EB%A1%9C%20%EB%B6%84%EB%A5%98%ED%95%98%EC%97%AC%20%EC%A3%BC%EB%AC%B8%EC%83%81%ED%83%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
   * 카테고리 별 도서 판매량 집계하기 
     * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%20%EB%B3%84%20%EB%8F%84%EC%84%9C%20%ED%8C%90%EB%A7%A4%EB%9F%89%20%EC%A7%91%EA%B3%84%ED%95%98%EA%B8%B0%20)
+  * 헤비 유저가 소유한 장소
+    * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%ED%97%A4%EB%B9%84%20%EC%9C%A0%EC%A0%80%EA%B0%80%20%EC%86%8C%EC%9C%A0%ED%95%9C%20%EC%9E%A5%EC%86%8C)
   </div>
   </details>
