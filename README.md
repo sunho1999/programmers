@@ -145,5 +145,7 @@
     * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%EC%A1%B0%EA%B1%B4%EC%97%90%20%EB%A7%9E%EB%8A%94%20%EC%82%AC%EC%9A%A9%EC%9E%90%EC%99%80%20%EC%B4%9D%20%EA%B1%B0%EB%9E%98%EA%B8%88%EC%95%A1%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0)
   * 조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기
     * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%EC%A1%B0%ED%9A%8C%EC%88%98%EA%B0%80%20%EA%B0%80%EC%9E%A5%20%EB%A7%8E%EC%9D%80%20%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98%20%EA%B2%8C%EC%8B%9C%ED%8C%90%EC%9D%98%20%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0)
+  * 즐겨찾기가 가장 많은 식당 정보 출력하기
+    * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%EC%A6%90%EA%B2%A8%EC%B0%BE%EA%B8%B0%EA%B0%80%20%EA%B0%80%EC%9E%A5%20%EB%A7%8E%EC%9D%80%20%EC%8B%9D%EB%8B%B9%20%EC%A0%95%EB%B3%B4%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
   </div>
   </details>
