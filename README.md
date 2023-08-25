@@ -92,6 +92,8 @@
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B00) 
     * 숫자의표현
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EC%88%AB%EC%9E%90%EC%9D%98%ED%91%9C%ED%98%84) 
+    * 2 x n 타일링
+        * [link](https://github.com/sunho1999/programmers/tree/main/level2/2%20x%20n%20%ED%83%80%EC%9D%BC%EB%A7%81)
   </div>
   </details>
 
