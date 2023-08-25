@@ -147,5 +147,7 @@
     * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%EC%A1%B0%ED%9A%8C%EC%88%98%EA%B0%80%20%EA%B0%80%EC%9E%A5%20%EB%A7%8E%EC%9D%80%20%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98%20%EA%B2%8C%EC%8B%9C%ED%8C%90%EC%9D%98%20%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0)
   * 즐겨찾기가 가장 많은 식당 정보 출력하기
     * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%EC%A6%90%EA%B2%A8%EC%B0%BE%EA%B8%B0%EA%B0%80%20%EA%B0%80%EC%9E%A5%20%EB%A7%8E%EC%9D%80%20%EC%8B%9D%EB%8B%B9%20%EC%A0%95%EB%B3%B4%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
+  * 자동차 대여 기록에서 대여중_대여 가능 여부 구분하기
+    * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EB%8C%80%EC%97%AC%20%EA%B8%B0%EB%A1%9D%EC%97%90%EC%84%9C%20%EB%8C%80%EC%97%AC%EC%A4%91_%EB%8C%80%EC%97%AC%20%EA%B0%80%EB%8A%A5%20%EC%97%AC%EB%B6%80%20%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0)
   </div>
   </details>
