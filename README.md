@@ -96,6 +96,8 @@
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/2%20x%20n%20%ED%83%80%EC%9D%BC%EB%A7%81)
     * 모음사전
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84)
+    * H-Index
+        * [link](https://github.com/sunho1999/programmers/tree/main/level2/H-Index) 
   </div>
   </details>
 
