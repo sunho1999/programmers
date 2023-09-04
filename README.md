@@ -123,6 +123,8 @@
         * [link](https://github.com/sunho1999/programmers/tree/main/level3/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C)
     * [2019 카카오 개발자 겨울 인턴십]불량 사용자
         * [link](https://github.com/sunho1999/programmers/tree/main/level3/%5B2019%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B2%A8%EC%9A%B8%20%EC%9D%B8%ED%84%B4%EC%8B%AD%5D%EB%B6%88%EB%9F%89%20%EC%82%AC%EC%9A%A9%EC%9E%90%20)
+    * 귤 고르기
+        * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EA%B7%A4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0) 
   </div>
   </details>
 
