@@ -98,6 +98,8 @@
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84)
     * H-Index
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/H-Index) 
+    * 멀리 뛰기
+        * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EB%A9%80%EB%A6%AC%20%EB%9B%B0%EA%B8%B0)
   </div>
   </details>
 
