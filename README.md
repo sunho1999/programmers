@@ -131,6 +131,8 @@
         * [link](https://github.com/sunho1999/programmers/tree/main/level3/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC)
     * 동적삼각형
         * [link](https://github.com/sunho1999/programmers/tree/main/level3/%EB%8F%99%EC%A0%81%EC%82%BC%EA%B0%81%ED%98%95)
+    * 아이템줍기
+        * [link](https://github.com/sunho1999/programmers/tree/main/level3/%EC%95%84%EC%9D%B4%ED%85%9C%20%EC%A4%8D%EA%B8%B0) 
   </div>
   </details>
 
