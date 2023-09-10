@@ -100,6 +100,8 @@
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/H-Index) 
     * 멀리 뛰기
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EB%A9%80%EB%A6%AC%20%EB%9B%B0%EA%B8%B0)
+    * 이진 변환 반복하기
+        * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0)
   </div>
   </details>
 
