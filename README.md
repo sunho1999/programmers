@@ -104,6 +104,8 @@
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0)
     * 예상 대진표
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C)
+    * 짝지어 제거하기
+        * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0%20)
   </div>
   </details>
 
