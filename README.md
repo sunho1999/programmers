@@ -114,6 +114,8 @@
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC)
     * 다음 큰 숫자
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90)
+    * 미로 탈출
+        * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EB%AF%B8%EB%A1%9C%20%ED%83%88%EC%B6%9C) 
   </div>
   </details>
 
