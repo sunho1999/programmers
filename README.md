@@ -116,6 +116,8 @@
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90)
     * 미로 탈출
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EB%AF%B8%EB%A1%9C%20%ED%83%88%EC%B6%9C) 
+    * N개의 최소공배수
+        * [link](https://github.com/sunho1999/programmers/tree/main/level2/N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)
   </div>
   </details>
 
