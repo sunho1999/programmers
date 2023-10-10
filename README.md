@@ -120,6 +120,8 @@
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)
     * 피보나치 수
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98) 
+    * 괄호 회전하기
+        * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0%20)
   </div>
   </details>
 
