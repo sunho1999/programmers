@@ -195,5 +195,9 @@
     * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%EC%A1%B0%EA%B1%B4%EC%97%90%20%EB%A7%9E%EB%8A%94%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%A0%95%EB%B3%B4%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0)
   * 성분으로 구분한 아이스크림 총 주문량
     * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%EC%84%B1%EB%B6%84%EC%9C%BC%EB%A1%9C%20%EA%B5%AC%EB%B6%84%ED%95%9C%20%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC%20%EC%B4%9D%20%EC%A3%BC%EB%AC%B8%EB%9F%89)
+  * 그룹별 조건에 맞는 식당 목록 출력하기
+    * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%EA%B7%B8%EB%A3%B9%EB%B3%84%20%EC%A1%B0%EA%B1%B4%EC%97%90%20%EB%A7%9E%EB%8A%94%20%EC%8B%9D%EB%8B%B9%20%EB%AA%A9%EB%A1%9D%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
+  * 식품분류별 가장 비싼 식품의 정보 조회하기
+    * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%EA%B0%80%EA%B2%A9%EC%9D%B4%20%EC%A0%9C%EC%9D%BC%20%EB%B9%84%EC%8B%BC%20%EC%8B%9D%ED%92%88%EC%9D%98%20%EC%A0%95%EB%B3%B4%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
   </div>
   </details>
