@@ -124,6 +124,8 @@
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0%20)
     * n^2 배열 자르기
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/n%5E2%20%EB%B0%B0%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0) 
+    * 할인 행사
+        * [link](https://github.com/sunho1999/programmers/tree/main/level2/%ED%95%A0%EC%9D%B8%20%ED%96%89%EC%82%AC)
   </div>
   </details>
 
@@ -191,5 +193,7 @@
     * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EB%8C%80%EC%97%AC%20%EA%B8%B0%EB%A1%9D%EC%97%90%EC%84%9C%20%EB%8C%80%EC%97%AC%EC%A4%91_%EB%8C%80%EC%97%AC%20%EA%B0%80%EB%8A%A5%20%EC%97%AC%EB%B6%80%20%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0)
   * 조건에 맞는 사용자 정보 조회하기
     * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%EC%A1%B0%EA%B1%B4%EC%97%90%20%EB%A7%9E%EB%8A%94%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%A0%95%EB%B3%B4%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0)
+  * 성분으로 구분한 아이스크림 총 주문량
+    * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%EC%84%B1%EB%B6%84%EC%9C%BC%EB%A1%9C%20%EA%B5%AC%EB%B6%84%ED%95%9C%20%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC%20%EC%B4%9D%20%EC%A3%BC%EB%AC%B8%EB%9F%89)
   </div>
   </details>
