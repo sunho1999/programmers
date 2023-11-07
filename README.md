@@ -159,6 +159,8 @@
         * [link](https://github.com/sunho1999/programmers/tree/main/level3/%EB%8F%99%EC%A0%81%EC%82%BC%EA%B0%81%ED%98%95)
     * 아이템줍기
         * [link](https://github.com/sunho1999/programmers/tree/main/level3/%EC%95%84%EC%9D%B4%ED%85%9C%20%EC%A4%8D%EA%B8%B0) 
+    * 연속 부분 수열 합의 개수
+        * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EC%97%B0%EC%86%8D%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%20%ED%95%A9%EC%9D%98%20%EA%B0%9C%EC%88%98)  
   </div>
   </details>
 
