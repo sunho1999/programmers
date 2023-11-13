@@ -128,6 +128,8 @@
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%ED%95%A0%EC%9D%B8%20%ED%96%89%EC%82%AC)
     * 롤케이크 자르기
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EB%A1%A4%EC%BC%80%EC%9D%B4%ED%81%AC%20%EC%9E%90%EB%A5%B4%EA%B8%B0)
+    * 행렬의 곱셈
+        * [link](https://github.com/sunho1999/programmers/tree/main/level2/%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%88)
   </div>
   </details>
 
