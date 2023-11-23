@@ -209,5 +209,7 @@
     * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%EA%B0%80%EA%B2%A9%EC%9D%B4%20%EC%A0%9C%EC%9D%BC%20%EB%B9%84%EC%8B%BC%20%EC%8B%9D%ED%92%88%EC%9D%98%20%EC%A0%95%EB%B3%B4%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
   * 주문량이 많은 아이스크림들 조회하기
     * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%EC%A3%BC%EB%AC%B8%EB%9F%89%EC%9D%B4%20%EB%A7%8E%EC%9D%80%20%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC%EB%93%A4%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0)
+  * [카카오 인턴]보석 쇼핑
+    * [link](https://github.com/sunho1999/programmers/tree/main/level3/%5B%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%9D%B8%ED%84%B4%5D%20%EB%B3%B4%EC%84%9D%20%EC%87%BC%ED%95%91)
   </div>
   </details>
