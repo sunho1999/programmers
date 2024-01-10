@@ -218,5 +218,7 @@
     * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%EC%A3%BC%EB%AC%B8%EB%9F%89%EC%9D%B4%20%EB%A7%8E%EC%9D%80%20%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC%EB%93%A4%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0)
   * 3월에 태어난 여성 회원 목록 출력하기
     * [link](https://github.com/sunho1999/programmers/tree/main/SQL/3%EC%9B%94%EC%97%90%20%ED%83%9C%EC%96%B4%EB%82%9C%20%EC%97%AC%EC%84%B1%20%ED%9A%8C%EC%9B%90%20%EB%AA%A9%EB%A1%9D%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
+  * 진료과별 총 예약 횟수 출력하기
+    * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%EC%A7%84%EB%A3%8C%EA%B3%BC%EB%B3%84%20%EC%B4%9D%20%EC%98%88%EC%95%BD%20%ED%9A%9F%EC%88%98%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
   </div>
   </details>
