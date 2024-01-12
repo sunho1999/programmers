@@ -220,5 +220,11 @@
     * [link](https://github.com/sunho1999/programmers/tree/main/SQL/3%EC%9B%94%EC%97%90%20%ED%83%9C%EC%96%B4%EB%82%9C%20%EC%97%AC%EC%84%B1%20%ED%9A%8C%EC%9B%90%20%EB%AA%A9%EB%A1%9D%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
   * 진료과별 총 예약 횟수 출력하기
     * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%EC%A7%84%EB%A3%8C%EA%B3%BC%EB%B3%84%20%EC%B4%9D%20%EC%98%88%EC%95%BD%20%ED%9A%9F%EC%88%98%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
+  * 자동차 대여 기록에서 장기/단기 대여 구분하기
+    * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EB%8C%80%EC%97%AC%20%EA%B8%B0%EB%A1%9D%EC%97%90%EC%84%9C%20%EC%9E%A5%EA%B8%B0_%EB%8B%A8%EA%B8%B0%20%EB%8C%80%EC%97%AC%20%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0)
+  * 5월 식품들의 총매출 조회하기
+    * [link](https://github.com/sunho1999/programmers/tree/main/SQL/5%EC%9B%94%20%EC%8B%9D%ED%92%88%EB%93%A4%EC%9D%98%20%EC%B4%9D%EB%A7%A4%EC%B6%9C%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0%20)
+  * 조건에 부합하는 중고거래 상태 조회하기
+    * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%20%EC%A1%B0%EA%B1%B4%EC%97%90%20%EB%B6%80%ED%95%A9%ED%95%98%EB%8A%94%20%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98%20%EC%83%81%ED%83%9C%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0)
   </div>
   </details>
