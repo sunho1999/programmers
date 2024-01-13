@@ -228,5 +228,7 @@
     * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%20%EC%A1%B0%EA%B1%B4%EC%97%90%20%EB%B6%80%ED%95%A9%ED%95%98%EB%8A%94%20%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98%20%EC%83%81%ED%83%9C%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0)
   * 특정 기간동안 대여 가능한 자동차들의 대여비용 구하기
     * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%ED%8A%B9%EC%A0%95%20%EA%B8%B0%EA%B0%84%EB%8F%99%EC%95%88%20%EB%8C%80%EC%97%AC%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%EC%9E%90%EB%8F%99%EC%B0%A8%EB%93%A4%EC%9D%98%20%EB%8C%80%EC%97%AC%EB%B9%84%EC%9A%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%20)
+  * 자동차 대여 기록에서 장기_단기 대여 구분하기
+    * [link](https://github.com/sunho1999/programmers/tree/main/SQL/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EB%8C%80%EC%97%AC%20%EA%B8%B0%EB%A1%9D%EC%97%90%EC%84%9C%20%EC%9E%A5%EA%B8%B0_%EB%8B%A8%EA%B8%B0%20%EB%8C%80%EC%97%AC%20%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0)
   </div>
   </details>
