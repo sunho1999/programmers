@@ -132,6 +132,8 @@
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%88)
     * 의상
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EC%9D%98%EC%83%81) 
+    * 전력망을 둘로 나누기
+        * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EC%A0%84%EB%A0%A5%EB%A7%9D%EC%9D%84%20%EB%91%98%EB%A1%9C%20%EB%82%98%EB%88%84%EA%B8%B0) 
   </div>
   </details>
 
