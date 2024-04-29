@@ -136,6 +136,8 @@
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EC%A0%84%EB%A0%A5%EB%A7%9D%EC%9D%84%20%EB%91%98%EB%A1%9C%20%EB%82%98%EB%88%84%EA%B8%B0) 
     * 숫자 카드 나누기
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C%20%EB%82%98%EB%88%84%EA%B8%B0) 
+    * 가장 큰 정사각형 찾기
+        * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%20%EC%B0%BE%EA%B8%B0) 
   </div>
   </details>
 
