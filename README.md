@@ -1,6 +1,16 @@
 # Programmers Algorithm
 
 <details>
+  <summary> PCCP 기출문제 보기 </summary>
+  <div markdown="1">
+
+* PCCP 기출문제
+    * 붕대감기 기술
+        * [link](https://github.com/sunho1999/programmers/tree/main/PCCP/%EB%B6%95%EB%8C%80%EA%B0%90%EA%B8%B0%EA%B8%B0%EC%88%A0)
+  </div>
+  </details>
+
+<details>
   <summary> level 1문제 보기</summary>
   <div markdown="1">
 
