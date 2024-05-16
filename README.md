@@ -150,6 +150,8 @@
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%20%EC%B0%BE%EA%B8%B0) 
     * 테이블 해시 함수
         * [link](https://github.com/sunho1999/programmers/tree/main/level2/%ED%85%8C%EC%9D%B4%EB%B8%94%20%ED%95%B4%EC%8B%9C%20%ED%95%A8%EC%88%98%20)
+    * 택배상자
+        * [link](https://github.com/sunho1999/programmers/tree/main/level2/%ED%83%9D%EB%B0%B0%EC%83%81%EC%9E%90) 
   </div>
   </details>
 
