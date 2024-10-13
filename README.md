@@ -197,6 +197,8 @@
       * [link](https://github.com/sunho1999/programmers/tree/main/level3/%EC%B5%9C%EA%B3%A0%EC%9D%98%20%EC%A7%91%ED%95%A9)
     * [카카오 인턴]경주로 건설
       * [link](https://github.com/sunho1999/programmers/tree/main/level3/%5B%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%9D%B8%ED%84%B4%5D%EA%B2%BD%EC%A3%BC%EB%A1%9C%20%EA%B1%B4%EC%84%A4)
+    * 연속 펄스 부분 수열의 합
+      * [link](https://github.com/sunho1999/programmers/tree/main/level3/%EC%97%B0%EC%86%8D%20%ED%8E%84%EC%8A%A4%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9)
   </div>
   </details>
 
